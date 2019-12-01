@@ -11,7 +11,7 @@ end
 
 def long_planeteer_calls(long_array) # code an argument here
   # Your code here
-  
+  long_array.any? do 
 end
 
 def find_the_cheese# code an argument here
